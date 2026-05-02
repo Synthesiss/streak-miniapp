@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "REPLACE_AFTER_SIGNING",
+    "payload": "REPLACE_AFTER_SIGNING",
+    "signature": "REPLACE_AFTER_SIGNING"
+  },
+  "frame": {
+    "version": "1",
+    "name": "StreakBase",
+    "iconUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/icon.png",
+    "homeUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app",
+    "splashImageUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a0f",
+    "webhookUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/api/webhook"
+  }
+}
