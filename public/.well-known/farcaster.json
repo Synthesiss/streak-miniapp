@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "REPLACE_AFTER_SIGNING",
-    "payload": "REPLACE_AFTER_SIGNING",
-    "signature": "REPLACE_AFTER_SIGNING"
+    "header": "eyJmaWQiOjEwMjQyNTEsInR5cGUiOiJjdXN0b2R5In0",
+    "payload": "eyJkb21haW4iOiJzdHJlYWstbWluaWFwcC1zeW50aGVzaXNzLTU5ODJzLXByb2plY3RzLnZlcmNlbC5hcHAifQ",
+    "signature": "oKvjvYevFqfuMSeFg/NZmL/VpM/yITH..."
   },
   "frame": {
     "version": "1",
@@ -10,7 +10,12 @@
     "iconUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/icon.png",
     "homeUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app",
     "splashImageUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/splash.png",
-    "splashBackgroundColor": "#0a0a0f",
-    "webhookUrl": "https://streak-miniapp-synthesiss-5982s-projects.vercel.app/api/webhook"
+    "splashBackgroundColor": "#0a0a0f"
   }
 }
+
+
+
+
+
+
