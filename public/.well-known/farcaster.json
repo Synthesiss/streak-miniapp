@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjEwMjQyNTEsInR5cGUiOiJjdXN0b2R5In0",
+    "header": "eyJmaWQiOjEwMjQyNTEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg4MzNDZGU4RmMyYTYxQjlBRGFlNTdCMzcwZGU2MTMwNWRDRTg2N2I5In0",
     "payload": "eyJkb21haW4iOiJzdHJlYWstbWluaWFwcC1zeW50aGVzaXNzLTU5ODJzLXByb2plY3RzLnZlcmNlbC5hcHAifQ",
-    "signature": "oKvjvYevFqfuMSeFg/NZmL/VpM/yITH..."
+    "signature": "oKvjvYevFqfuMSeFg/NZmL/VpM/yITHGBMQQJ2rwfw5BtSvZygDcVSZzy5zoyZ/ugFzfi3Ge+WN/QlvNXuwQWBw="
   },
   "frame": {
     "version": "1",
@@ -13,9 +13,3 @@
     "splashBackgroundColor": "#0a0a0f"
   }
 }
-
-
-
-
-
-
